@@ -1,0 +1,38 @@
+[
+    {
+        "address": "192.168.0.1/1",
+        "name": "RA_Upgraded_Legacy_Networks_1",
+        "priority": 1,
+        "environments": [
+            "C_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772180033131,
+        "modificationTimeUnixTimeInMs": 1772180033131
+    },
+    {
+        "address": "192.168.0.2/2",
+        "name": "RA_Upgraded_Legacy_Networks_2",
+        "priority": 5,
+        "environments": [
+            "Default Environment",
+            "B_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772096944646,
+        "modificationTimeUnixTimeInMs": 1772180006510
+    },
+    {
+        "address": "192.168.0.3/3",
+        "name": "RA_Upgraded_Legacy_Networks_3",
+        "priority": 3,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772096967125,
+        "modificationTimeUnixTimeInMs": 1772180013077
+    }
+]
