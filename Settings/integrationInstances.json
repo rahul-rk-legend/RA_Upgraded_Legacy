@@ -1,0 +1,240 @@
+[
+    {
+        "environment": "A_RA_Upgraded_Legacy",
+        "integrationIdentifier": "SampleIntegration",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "SampleIntegration_1",
+            "settings": [
+                {
+                    "propertyName": "API Root",
+                    "value": "https://api.vatcomply.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 140,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API Root for the integration. In this case, we are integrating with \"api.vatcomply.com\" service.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "7baf5805-beea-4904-b978-d74dbe220adc"
+                },
+                {
+                    "propertyName": "Password Field",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 141,
+                    "propertyDisplayName": "Password Field",
+                    "propertyDescription": "Example of API password field parameter. API doesn't require authentication, this parameter is just for showcase purpose.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "7baf5805-beea-4904-b978-d74dbe220adc"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 142,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If selected, the integration validates the SSL certificate when connecting to API Service. Selected by default.",
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "7baf5805-beea-4904-b978-d74dbe220adc"
+                },
+                {
+                    "propertyName": "RunRemotely",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 143,
+                    "propertyDisplayName": "Run Remotely",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "7baf5805-beea-4904-b978-d74dbe220adc"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 144,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "SampleIntegration",
+                    "integrationInstance": "7baf5805-beea-4904-b978-d74dbe220adc"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "B_RA_Upgraded_Legacy",
+        "integrationIdentifier": "VirusTotalV3",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "VirusTotalV3_1",
+            "settings": [
+                {
+                    "propertyName": "API Key",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": true,
+                    "id": 153,
+                    "propertyDisplayName": "API Key",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "7e60b4f8-b9e3-48f4-bdfd-96f8b0689ff9"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 154,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "7e60b4f8-b9e3-48f4-bdfd-96f8b0689ff9"
+                },
+                {
+                    "propertyName": "RunRemotely",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 155,
+                    "propertyDisplayName": "Run Remotely",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "7e60b4f8-b9e3-48f4-bdfd-96f8b0689ff9"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 156,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "VirusTotalV3",
+                    "integrationInstance": "7e60b4f8-b9e3-48f4-bdfd-96f8b0689ff9"
+                }
+            ]
+        }
+    },
+    {
+        "environment": "C_RA_Upgraded_Legacy",
+        "integrationIdentifier": "GoogleChronicle",
+        "settings": {
+            "instanceDescription": "",
+            "instanceName": "GoogleChronicle_1",
+            "settings": [
+                {
+                    "propertyName": "UI Root",
+                    "value": "https://{instance}.chronicle.security",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 164,
+                    "propertyDisplayName": "UI Root",
+                    "propertyDescription": "UI root of the Chronicle instance. It will be used to create a link that points back to Chronicle across multiple actions.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "API Root",
+                    "value": "https://backstory.googleapis.com",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 2,
+                    "isMandatory": true,
+                    "id": 165,
+                    "propertyDisplayName": "API Root",
+                    "propertyDescription": "API root of the Chronicle instance.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "User's Service Account",
+                    "value": "***************",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 166,
+                    "propertyDisplayName": "User's Service Account",
+                    "propertyDescription": "Service Account that is used for authentication. You can configure either this parameter or the Workload Identity Email parameter. If both this and Workload Identity Email not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "Workload Identity Email",
+                    "value": "",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 3,
+                    "isMandatory": false,
+                    "id": 167,
+                    "propertyDisplayName": "Workload Identity Email",
+                    "propertyDescription": "The client email address of your workload identity. You can configure either this parameter or the User's Service Account parameter. To impersonate service accounts with the workload identity email address, grant the Service Account Token Creator role to your service account. If both this and User's Service Account not provided, the default Service Account of the SecOps Instance will be used to authenticate.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "Verify SSL",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 168,
+                    "propertyDisplayName": "Verify SSL",
+                    "propertyDescription": "If enabled, verify the SSL certificate for the connection to the Google Chronicle server is valid.",
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "RunRemotely",
+                    "value": "True",
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 0,
+                    "isMandatory": false,
+                    "id": 169,
+                    "propertyDisplayName": "Run Remotely",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                },
+                {
+                    "propertyName": "AgentIdentifier",
+                    "value": null,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0,
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "id": 170,
+                    "propertyDisplayName": "Agent",
+                    "propertyDescription": null,
+                    "integrationIdentifier": "GoogleChronicle",
+                    "integrationInstance": "95e18369-d524-4687-b3d0-540222a5f04b"
+                }
+            ]
+        }
+    }
+]
