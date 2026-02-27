@@ -5,7 +5,10 @@
         "Mappings": {
             " GoogleChronicle, MicrosoftGraphMailDelegated": "Adding  a readme on"
         },
-        "Visual Family": {},
+        "Visual Family": {
+            "RA_Upgraded_Legacy_Visual_Families_3": "Adding a readme on",
+            "RA_Upgraded_Legacy_Visual_Families_4": "Adding a readme on"
+        },
         "Playbook": {},
         "Connector": {
             "VirusTotal - Livehunt Notifications Connector": "Adding a readme on",
