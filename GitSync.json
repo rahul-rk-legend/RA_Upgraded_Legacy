@@ -6,7 +6,10 @@
         "Visual Family": {},
         "Playbook": {},
         "Connector": {},
-        "Job": {}
+        "Job": {
+            "Simple Job Example": "Adding a readme on ",
+            "Sync Incidents": "Adding a readme on "
+        }
     },
     "settings": {
         "update_root_readme": true
