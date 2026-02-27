@@ -1,0 +1,54 @@
+[
+    {
+        "value": "Phishing email detector",
+        "name": "RA_Upgraded_Legacy_Tag_1",
+        "propertyName": "Entity.Environment",
+        "priority": 1,
+        "isPotentialCaseName": true,
+        "environments": [],
+        "type": 3,
+        "compareType": 2,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772096634340,
+        "modificationTimeUnixTimeInMs": 1772179728752
+    },
+    {
+        "value": "Phishing email detector",
+        "name": "RA_Upgraded_Legacy_Tag_2",
+        "propertyName": "",
+        "priority": 3,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 1,
+        "compareType": 2,
+        "id": 6,
+        "creationTimeUnixTimeInMs": 1772096650813,
+        "modificationTimeUnixTimeInMs": 1772179734673
+    },
+    {
+        "value": "symantec:ep:risk:file",
+        "name": "RA_Upgraded_Legacy_Tag_3",
+        "propertyName": "",
+        "priority": 5,
+        "isPotentialCaseName": true,
+        "environments": [],
+        "type": 2,
+        "compareType": 2,
+        "id": 7,
+        "creationTimeUnixTimeInMs": 1772096665522,
+        "modificationTimeUnixTimeInMs": 1772179742256
+    },
+    {
+        "value": "symantec:ep:risk:file",
+        "name": "RA_Upgraded_Legacy_Tag_6",
+        "propertyName": "",
+        "priority": 1,
+        "isPotentialCaseName": false,
+        "environments": [],
+        "type": 0,
+        "compareType": 2,
+        "id": 8,
+        "creationTimeUnixTimeInMs": 1772096689659,
+        "modificationTimeUnixTimeInMs": 1772179746860
+    }
+]
