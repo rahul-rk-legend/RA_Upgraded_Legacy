@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "valueType": 3,
+        "value": "[\"Research\",\"RA_Upgraded_Legacy_Case_Stages_2\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "Default Environment",
+            "C_RA_Upgraded_Legacy",
+            "B_RA_Upgraded_Legacy"
+        ],
+        "alertType": null,
+        "values": [
+            "Research",
+            "RA_Upgraded_Legacy_Case_Stages_2"
+        ]
+    },
+    {
+        "id": 3,
+        "valueType": 4,
+        "value": "[\"Low\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 2,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "*"
+        ],
+        "alertType": null,
+        "values": [
+            "Low"
+        ]
+    },
+    {
+        "id": 4,
+        "valueType": 5,
+        "value": "[\"High\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "B_RA_Upgraded_Legacy",
+            "C_RA_Upgraded_Legacy"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    },
+    {
+        "id": 6,
+        "valueType": 2,
+        "value": "[\"Virus Found Or security risk found\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 5.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 4.0,
+        "environments": [
+            "B_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy",
+            "C_RA_Upgraded_Legacy"
+        ],
+        "alertType": 1,
+        "values": [
+            "Virus Found Or security risk found"
+        ]
+    }
+]
