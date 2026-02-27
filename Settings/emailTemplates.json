@@ -1,0 +1,44 @@
+[
+    {
+        "type": 0,
+        "name": "RA_Upgraded_Legacy_Email_Template_2",
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "creatorUserName": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "forMigration": false,
+        "environments": [
+            "Default Environment",
+            "C_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772097200555,
+        "modificationTimeUnixTimeInMs": 1772180124051
+    },
+    {
+        "type": 0,
+        "name": "RA_Upgraded_Legacy_Email_Template_3",
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "creatorUserName": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "forMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772097218380,
+        "modificationTimeUnixTimeInMs": 1772180129107
+    },
+    {
+        "type": 0,
+        "name": "RA_Upgraded_Legacy_Email_Template_1",
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "creatorUserName": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "forMigration": false,
+        "environments": [
+            "B_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772180147900,
+        "modificationTimeUnixTimeInMs": 1772180147900
+    }
+]
