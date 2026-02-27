@@ -1,0 +1,38 @@
+[
+    {
+        "entityIdentifier": "RA_Upgraded_Legacy_Custom_List_2",
+        "category": "Hostname",
+        "forDBMigration": false,
+        "environments": [
+            "C_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy",
+            "Default Environment"
+        ],
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772097060295,
+        "modificationTimeUnixTimeInMs": 1772180074920
+    },
+    {
+        "entityIdentifier": "RA_Upgraded_Legacy_Custom_List_3",
+        "category": "URL",
+        "forDBMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772097074930,
+        "modificationTimeUnixTimeInMs": 1772180079642
+    },
+    {
+        "entityIdentifier": "RA_Upgraded_Legacy_Custom_List_1",
+        "category": "Domain",
+        "forDBMigration": false,
+        "environments": [
+            "B_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772180096553,
+        "modificationTimeUnixTimeInMs": 1772180096553
+    }
+]
