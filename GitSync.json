@@ -5,7 +5,10 @@
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
-        "Connector": {},
+        "Connector": {
+            "VirusTotal - Livehunt Notifications Connector": "Adding a readme on",
+            "Microsoft Azure Sentinel Incident Connector": "Adding a readme on"
+        },
         "Job": {
             "Simple Job Example": "Adding a readme on ",
             "Sync Incidents": "Adding a readme on "
