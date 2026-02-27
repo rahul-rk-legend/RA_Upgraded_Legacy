@@ -1,0 +1,22 @@
+[
+    {
+        "value": "[Alert.RuleGenerator]",
+        "order": 1
+    },
+    {
+        "value": "[Case.FirstTagForCaseName]",
+        "order": 2
+    },
+    {
+        "value": "[Alert.Product]",
+        "order": 3
+    },
+    {
+        "value": "[RA_Upgraded_Legacy_Case_Name.1]",
+        "order": 4
+    },
+    {
+        "value": "[RA_Upgraded_Legacy_Case_Name.2]",
+        "order": 5
+    }
+]
