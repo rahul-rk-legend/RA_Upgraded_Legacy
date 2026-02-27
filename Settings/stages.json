@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Triage",
+        "order": 1,
+        "id": 1,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "Assessment",
+        "order": 2,
+        "id": 2,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "Investigation",
+        "order": 3,
+        "id": 3,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "Incident",
+        "order": 4,
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "Improvement",
+        "order": 5,
+        "id": 5,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "Research",
+        "order": 6,
+        "id": 6,
+        "creationTimeUnixTimeInMs": 1772078186962,
+        "modificationTimeUnixTimeInMs": 1772078186962
+    },
+    {
+        "name": "RA_Upgraded_Legacy_Case_Stages_1",
+        "order": 17,
+        "id": 11,
+        "creationTimeUnixTimeInMs": 1772179800560,
+        "modificationTimeUnixTimeInMs": 1772179800560
+    },
+    {
+        "name": "RA_Upgraded_Legacy_Case_Stages_2",
+        "order": 20,
+        "id": 12,
+        "creationTimeUnixTimeInMs": 1772179807610,
+        "modificationTimeUnixTimeInMs": 1772179807610
+    }
+]
