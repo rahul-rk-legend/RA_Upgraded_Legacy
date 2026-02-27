@@ -2,7 +2,9 @@
     "system_version": "6.999.1.361",
     "readme_addons": {
         "Integration": {},
-        "Mappings": {},
+        "Mappings": {
+            " GoogleChronicle, MicrosoftGraphMailDelegated": "Adding  a readme on"
+        },
         "Visual Family": {},
         "Playbook": {},
         "Connector": {
