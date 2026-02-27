@@ -1,0 +1,35 @@
+[
+    {
+        "alias": null,
+        "id": 5,
+        "domain": "RA_Upgraded_Legacy_Domain_1",
+        "environments": [
+            "C_RA_Upgraded_Legacy",
+            "A_RA_Upgraded_Legacy"
+        ],
+        "creationTimeUnixTimeInMs": 1772180062148,
+        "modificationTimeUnixTimeInMs": 1772180062148
+    },
+    {
+        "alias": null,
+        "id": 2,
+        "domain": "RA_Upgraded_Legacy_Domain_2",
+        "environments": [
+            "Default Environment",
+            "B_RA_Upgraded_Legacy",
+            "C_RA_Upgraded_Legacy"
+        ],
+        "creationTimeUnixTimeInMs": 1772096990265,
+        "modificationTimeUnixTimeInMs": 1772180044296
+    },
+    {
+        "alias": null,
+        "id": 3,
+        "domain": "RA_Upgraded_Legacy_Domain_3",
+        "environments": [
+            "*"
+        ],
+        "creationTimeUnixTimeInMs": 1772096996339,
+        "modificationTimeUnixTimeInMs": 1772180049364
+    }
+]
