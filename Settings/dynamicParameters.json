@@ -1,0 +1,19 @@
+[
+    {
+        "id": 5,
+        "name": "Dynamic_RA_Upgraded_Legacy_1",
+        "type": 0,
+        "defaultValue": "Dynamic_RA_Upgraded_Legacy_1",
+        "optionalValues": []
+    },
+    {
+        "id": 6,
+        "name": "Dynamic_RA_Upgraded_Legacy_2",
+        "type": 1,
+        "defaultValue": "Dynamic_RA_Upgraded_Legacy_2",
+        "optionalValues": [
+            "Dynamic_RA_Upgraded_Legacy_2",
+            "Dynamic_RA_Upgraded_Legacy_1"
+        ]
+    }
+]
