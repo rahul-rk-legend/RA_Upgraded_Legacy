@@ -1,0 +1,110 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/10",
+        "id": 0,
+        "system": false,
+        "displayName": "C_RA_Upgraded_Legacy",
+        "description": "C_RA_Upgraded_Legacy",
+        "contact": "C_RA_Upgraded_Legacy",
+        "contactEmails": "c@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 10
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 10
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/9",
+        "id": 0,
+        "system": false,
+        "displayName": "B_RA_Upgraded_Legacy",
+        "description": "B_RA_Upgraded_Legacy",
+        "contact": "B_RA_Upgraded_Legacy",
+        "contactEmails": "b@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 9
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 9
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/8",
+        "id": 0,
+        "system": false,
+        "displayName": "A_RA_Upgraded_Legacy",
+        "description": "A_RA_Upgraded_Legacy",
+        "contact": "A_RA_Upgraded_Legacy",
+        "contactEmails": "a@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 8
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 8
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/1",
+        "id": 0,
+        "system": true,
+        "displayName": "Default Environment",
+        "description": "Default Environment",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 1
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 1
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    }
+]
