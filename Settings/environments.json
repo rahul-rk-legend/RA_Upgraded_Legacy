@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0,
+        "name": "A_RA_Upgraded_Legacy",
+        "description": "A_RA_Upgraded_Legacy",
+        "contactName": "A_RA_Upgraded_Legacy",
+        "contactEmails": "a@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 8
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 8
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "B_RA_Upgraded_Legacy",
+        "description": "B_RA_Upgraded_Legacy",
+        "contactName": "B_RA_Upgraded_Legacy",
+        "contactEmails": "b@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 9
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 9
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "C_RA_Upgraded_Legacy",
+        "description": "C_RA_Upgraded_Legacy",
+        "contactName": "C_RA_Upgraded_Legacy",
+        "contactEmails": "c@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "1234567890",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 10
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 10
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [],
+        "instanceUrl": "",
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "Default Environment",
+        "description": "Default Environment",
+        "contactName": null,
+        "contactEmails": "",
+        "contactEmailsList": null,
+        "contactPhone": null,
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": null,
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_1",
+                "dynamicParameterId": 5,
+                "environmentId": 1
+            },
+            {
+                "value": "Dynamic_RA_Upgraded_Legacy_2",
+                "dynamicParameterId": 6,
+                "environmentId": 1
+            }
+        ],
+        "properties": {},
+        "isSystem": true,
+        "aliases": [],
+        "instanceUrl": null,
+        "dataAccessScopes": []
+    }
+]
